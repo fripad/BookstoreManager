@@ -1,6 +1,6 @@
 # BookstoreManager
 
-This WPF application is for managing the inventories of bookstores. It has been developed as part of a course in Database Development & Administration. 
+This WPF application is for managing the inventories of bookstores. It has been developed as a collaborative effort between @ZgStn and myself as part of a course in Database Development & Administration. 
 
 ## Prerequisites
 - .NET 8
